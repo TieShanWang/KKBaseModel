@@ -8,9 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "MJExtension.h"
-
-@interface KKBaseModel : NSObject<MJCoding>
+@interface KKBaseModel : NSObject
 
 /**
  *  根据 data 生成模型

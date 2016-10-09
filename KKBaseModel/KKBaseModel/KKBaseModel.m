@@ -8,6 +8,8 @@
 
 #import "KKBaseModel.h"
 
+#import "MJExtension.h"
+
 @implementation KKBaseModel
 
 #if DEBUG
